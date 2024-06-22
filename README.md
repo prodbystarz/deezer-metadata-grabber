@@ -34,10 +34,11 @@ this python script fetches and displays metadata for a specified deezer track. t
 ## example
 
 enter deezer track url: https://www.deezer.com/track/123456789
-
+```sh
 isrc: us1234567890
 track name: example track
 artist: example artist
 album: example album
 release date: 2022-01-01
 album cover: https://example.com/cover.jpg
+```
