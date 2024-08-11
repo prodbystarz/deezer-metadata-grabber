@@ -6,7 +6,7 @@ this python script fetches and displays metadata for a specified deezer track. t
 
 1. **clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/deezer-metadata-grabber.git
+    git clone https://github.com/prodbystarz/deezer-metadata-grabber.git
     cd deezer-metadata-grabber
     ```
 
